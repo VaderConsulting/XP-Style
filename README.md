@@ -2,7 +2,7 @@
 
 VB6 XP Style helper (`XP Style.vbp`) that writes an application `.exe.manifest` so Windows XP+ draws common controls with visual styles (`InitCommonControls` / `XPStyle` / `UnStyle`). Manifest helper module is redacted to `Module1.bas.example` in this tree. Open `XP Style.vbp` in the VB6 IDE.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
+**Source last updated:** 2003-06-22 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
 ## Solution structure
 
